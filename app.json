@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "mobile",
-    "slug": "mobile",
+    "slug": "instedu",
+    "owner": "orikfw",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/instedu_logo.png",
@@ -15,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
