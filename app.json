@@ -5,11 +5,11 @@
     "owner": "orikfw",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/instedu_logo.png",
+    "icon": "./assets/img/instedu_logo_black.png",
     "userInterfaceStyle": "light",
     "scheme": "light",
     "splash": {
-      "image": "./assets/instedu_logo.png",
+      "image": "./assets/img/instedu_logo_black.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,16 +18,17 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.orikfw.instedu"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/instedu_logo.png",
+        "foregroundImage": "./assets/img/instedu_logo_black.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/instedu_logo.png"
+      "favicon": "./assets/img/instedu_logo_black.png"
     }
   }
 }

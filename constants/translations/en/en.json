@@ -1,0 +1,49 @@
+{
+  "translation": {
+    "currentLang": "en",
+
+    "hello": "Hello",
+    "home": "Home",
+    "search": "Search",
+    "upload": "Upload",
+    "activity": "Activity",
+    "profile": "Profile",
+
+    "chooseTheme": "Choose your theme",
+    "chooseLanguage": "Choose your language",
+    "darkTheme": "Dark",
+    "lightTheme": "Light",
+    "settings": "Settings",
+
+    "aboutProgram": "About",
+    "aboutMe": "Hi, I'm Orest and I'm a full-stack developer (python, JS, react, react-native).",
+    "aboutApp": "This program is a learning project to improve my knowledge of technology. The backend for this is written in python using FastAPI. The mobile application is built using react-native and supporting libraries such as navigation.",
+    "mySocial": "My social networks",
+    "copied": "The email address has been copied to the clipboard",
+
+    "signin": "Sign In",
+    "signup": "Sign Up",
+
+    "fullName": "Full name",
+    "username": "User name",
+    "email": "Email address",
+    "sex": "Sex",
+    "birthDate": "Birth date",
+    "webSite": "Web site",
+    "bio": "Bio",
+    "password": "Password",
+    "fullNamePlaceholder": "Type your full name",
+    "usernamePlaceholder": "Type your preferred username",
+    "usernameEmailPlaceholder": "Type your username or email",
+    "emailPlaceholder": "Type your email",
+    "sexPlaceholder": "Choose your sex",
+    "webSitePlaceholder": "Share a link to your web resource",
+    "bioPlaceholder": "Tell us about yourself...",
+    "passwordPlaceholder": "Type your password",
+
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "notSpecified": "I don't want to specify"
+  }
+}

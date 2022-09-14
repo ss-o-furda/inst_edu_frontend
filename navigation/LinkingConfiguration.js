@@ -33,7 +33,27 @@ const linking = {
           },
         },
       },
-      Modal: "modal",
+      Auth: {
+        screens: {
+          SignIn: {
+            screens: {
+              SignInScreen: "signin",
+            },
+          },
+          SignUp: {
+            screens: {
+              SignUpScreen: "signup",
+            },
+          },
+        },
+      },
+      Modals: {
+        screens: {
+          Settings: "settings",
+          ChangeLanguage: "changeLanguage",
+          AboutModal: "aboutModal",
+        },
+      },
       NotFound: "*",
     },
   },
